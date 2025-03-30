@@ -1,7 +1,7 @@
 #873774481522@3@3@1@1@1#
 
 
-zxdxrscf#1@9000@18000# : type 1 of frequency 9000 and 18000
-zxdxrscf#2@8000@16000# : type 2 of frequency 8000 and 16000: this is not set yet
+zxdxrscf#1@9000@18000# 
+zxdxrscf#2@8000@16000# 
 
-x21f67zx9w#111# : this code is important to be in the end of the file#step_time_to_update#
+x21f67zx9w#111# 
