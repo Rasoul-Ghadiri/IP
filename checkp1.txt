@@ -12,4 +12,4 @@ bxzuxiztable#66000#
 x21f67zx9w#111# 
 
 
-#verifcode@deviceuserlevel@valid time in hour@distfactor@internet check in week@type of frequency#
+#verifcode@deviceuserlevel@valid time in min@distfactor@internet check in week@type of frequency#
