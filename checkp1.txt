@@ -1,5 +1,5 @@
 
-#167785694734@3@3000@1@2@1#//mmd hosein de00002
+#167785694734@3@3000@1@2@1@6004@10683@19001#//mmd hosein de00002
 
 
 zxdxrscf#1@9000@18000# 
@@ -12,4 +12,4 @@ bxzuxiztable#66000#
 x21f67zx9w#111# 
 
 
-#verifcode@deviceuserlevel@valid time in min@distfactor@internet check in week@type of frequency#
+#verifcode@deviceuserlevel@valid time in min@distfactor@internet check in week@type of frequency@frequency1@frequency2@frequency3#
